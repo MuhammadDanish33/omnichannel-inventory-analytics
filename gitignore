@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Windows shortcut files
+*.lnk
